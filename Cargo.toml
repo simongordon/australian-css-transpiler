@@ -1,0 +1,6 @@
+[package]
+name = "aus-css"
+version = "0.1.0"
+authors = ["Simon Gordon <gordonsimon@hotmail.com>"]
+
+[dependencies]
